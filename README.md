@@ -10,9 +10,8 @@
 
 | 19 项竞赛获奖记录 | 1 项授权发明专利 | 7 项软件著作权登记 | 6 项作品著作权登记 |
 | :---: | :---: | :---: | :---: |
-| [逐项查看证书](achievements/README.md) | [列名共同发明人](intellectual-property/README.md#授权发明专利) | [查看登记清单](intellectual-property/README.md#软件著作权登记) | [查看登记清单](intellectual-property/README.md#作品著作权登记) |
 
-<sub>上述数字为现有证书中去重后的记录；竞赛成果包含团队获奖，知识产权包含共同署名。具体的赛事级别、本人角色和权利主体见各条证明。</sub>
+<sub>上述数字为现有证书中去重后的记录；竞赛成果包含团队获奖，知识产权包含共同署名。下方已逐项展开证书、本人角色和权利主体。</sub>
 
 ## 我在做什么
 
@@ -20,7 +19,7 @@
 | --- | --- | --- |
 | **项目管理与协调** | 梳理使用场景、任务和阶段节点；跟进样机集成、演示及反馈，整理项目文档。 | [无接触式监测学生项目](projects/contactless-vitals.zh-CN.md) |
 | **智能硬件实践** | 参与传感、嵌入式通信、电子制作与装配，记录联调和实际问题。 | [Fab Academy 制作记录](https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/) |
-| **技术写作与教学协作** | 整理教程、演示和实操材料，支持课程及技术交流活动。 | [教程与技术文章作品登记](intellectual-property/README.md#作品著作权登记)、[活动照片](#代表实践) |
+| **技术写作与教学协作** | 整理教程、演示和实操材料，支持课程及技术交流活动。 | [教程与技术文章作品登记](#作品著作权登记)、[活动照片](#代表实践) |
 
 ## 代表实践
 
@@ -52,7 +51,7 @@
 
 我参与课程大纲、实操练习、演示材料及技术文档的整理，也支持硬件教学与现场交流。写文档时，我关注参与者能否照着步骤完成操作、遇到问题后能否找到对应的说明，并把现场反馈带回项目和课程的下一轮修改。
 
-教程及技术文章的共同署名作品登记包括《大学生创新创业教程》《大学生电子计算机类比赛教程》《一文速通 Python 并行计算》和《一文速通 Python 面向对象编程》。[查看作品登记证书](intellectual-property/README.md#作品著作权登记)。
+教程及技术文章的共同署名作品登记包括《大学生创新创业教程》《大学生电子计算机类比赛教程》《一文速通 Python 并行计算》和《一文速通 Python 面向对象编程》。[查看下方作品登记证书](#作品著作权登记)。
 
 <img src="assets/ruili-speaking.jpg" width="430" alt="辛瑞莉在 2026 年技术交流活动中发言" />
 
@@ -60,21 +59,92 @@
 
 ## 竞赛与证书
 
-本科期间，我参与了电子设计、机器人、智能农业、计算机设计和生物医学工程等方向的学生团队项目。下面选出几项代表性证明；[完整的 19 项获奖记录与证书图在此](achievements/README.md)。合作项目在证书目录中标注为团队成果。
+本科期间，我参与电子设计、机器人、智能农业、计算机设计和生物医学工程等方向的学生团队项目。以下按年份**完整展开现有材料中去重后的 19 项获奖记录及证书图片**。每项均有写明我姓名的证书或团队获奖证明；合作项目按团队成果记录。赛事级别以证书上的“全国总决赛”“国赛”“省赛”“赛区”等字样为准。
 
-| 2025 · 全国大学生生物医学工程创新设计竞赛二等奖 | 2024 · 全球校园人工智能算法精英大赛全国总决赛二等奖 |
-| --- | --- |
-| <a href="assets/awards/award-24.jpg"><img src="assets/awards/award-24.jpg" width="350" alt="2025 全国大学生生物医学工程创新设计竞赛二等奖证书" /></a> | <a href="assets/awards/award-16.jpg"><img src="assets/awards/award-16.jpg" width="350" alt="2024 全球校园人工智能算法精英大赛全国总决赛二等奖证书" /></a> |
-| 2024 · “挑战杯”创业计划竞赛全国总决赛铜奖 | 2024 · “挑战杯”山西省大学生创业计划竞赛金奖 |
-| <a href="assets/awards/award-21.jpg"><img src="assets/awards/award-21.jpg" width="350" alt="2024 挑战杯创业计划竞赛全国总决赛铜奖证书" /></a> | <a href="assets/awards/award-22.jpg"><img src="assets/awards/award-22.jpg" width="350" alt="2024 挑战杯山西省大学生创业计划竞赛金奖证书" /></a> |
-| 2023 · “北斗杯”赛区本科组二等奖 | 2023 · 全国大学生数字媒体科技作品及创意竞赛国赛三等奖 |
-| <a href="assets/awards/award-07.jpg"><img src="assets/awards/award-07.jpg" width="350" alt="2023 北斗杯陕西赛区含山西本科组二等奖证书" /></a> | <a href="assets/awards/award-12.jpg"><img src="assets/awards/award-12.jpg" width="350" alt="2023 数字媒体科技作品及创意竞赛国赛三等奖证书" /></a> |
+### 2025
+
+| 奖项与作品 | 本人身份 | 证书 |
+| --- | --- | --- |
+| 第十届全国大学生生物医学工程创新设计竞赛二等奖；《基于生物电信号的外骨骼康复机械臂》。 | 团队成员 | [<img src="assets/awards/award-24.jpg" width="210" alt="2025 全国大学生生物医学工程创新设计竞赛二等奖证书" />](assets/awards/award-24.jpg) |
+
+### 2024
+
+| 奖项与作品 | 本人身份 | 证书 |
+| --- | --- | --- |
+| 第十四届“挑战杯”秦创原中国大学生创业计划竞赛全国总决赛铜奖；“晋猪守护者”。 | 团队成员 | [<img src="assets/awards/award-21.jpg" width="210" alt="2024 挑战杯创业计划竞赛全国总决赛铜奖证书" />](assets/awards/award-21.jpg) |
+| 第十四届“挑战杯”山西省大学生创业计划竞赛金奖；“晋猪守护者”。 | 团队成员 | [<img src="assets/awards/award-22.jpg" width="210" alt="2024 挑战杯山西省大学生创业计划竞赛金奖证书" />](assets/awards/award-22.jpg) |
+| 第六届全球校园人工智能算法精英大赛全国总决赛二等奖；“守护小猪”团队。 | 团队成员 | [<img src="assets/awards/award-16.jpg" width="210" alt="2024 全球校园人工智能算法精英大赛全国总决赛二等奖证书" />](assets/awards/award-16.jpg) |
+| 同赛事省赛优秀奖。 | 团队成员 | [<img src="assets/awards/award-17.jpg" width="210" alt="2024 全球校园人工智能算法精英大赛省赛优秀奖证书" />](assets/awards/award-17.jpg) |
+| 中国国际大学生创新大赛（2024）山西赛区银奖；《再生肌能——基于人体电信号的外骨骼康复机器人》。 | 团队成员 | [<img src="assets/awards/award-15.jpg" width="210" alt="2024 中国国际大学生创新大赛山西赛区银奖证书" />](assets/awards/award-15.jpg) |
+| 第九届“天鹅杯”国际大学生智能农业装备创新大赛优秀奖；《养殖场生猪健康管理方案》。 | 团队成员 | [<img src="assets/awards/award-20.jpg" width="210" alt="2024 天鹅杯国际大学生智能农业装备创新大赛优秀奖证书" />](assets/awards/award-20.jpg) |
+| 全国大学生电子设计竞赛（山西赛区）暨模拟电子系统设计专题赛选拔赛本科组二等奖。 | 团队成员 | [<img src="assets/awards/award-23.jpg" width="210" alt="2024 山西赛区电子设计与模拟电子系统设计专题赛选拔赛本科组二等奖证书" />](assets/awards/award-23.jpg) |
+
+### 2023
+
+| 奖项与作品 | 本人身份 | 证书 |
+| --- | --- | --- |
+| iCAN 大学生创新创业大赛“边缘 AI+行业”挑战赛全国总决赛三等奖；“晋猪守护者”。 | 团队成员 | [<img src="assets/awards/award-02.jpg" width="210" alt="2023 iCAN 边缘 AI 挑战赛全国总决赛三等奖证书" />](assets/awards/award-02.jpg) |
+| 第二十五届中国机器人及人工智能大赛全国总决赛机器人创新赛优秀奖。 | 团队成员 | [<img src="assets/awards/award-03.jpg" width="210" alt="2023 中国机器人及人工智能大赛全国总决赛机器人创新赛优秀奖证书" />](assets/awards/award-03.jpg) |
+| 同赛事山西赛区机器人创新赛二等奖。 | 团队成员 | [<img src="assets/awards/award-04.jpg" width="210" alt="2023 中国机器人及人工智能大赛山西赛区二等奖证书" />](assets/awards/award-04.jpg) |
+| 中北大学“刘鼎杯”大学生创新创业大赛金奖。 | 团队成员 | [<img src="assets/awards/award-05.jpg" width="210" alt="2023 中北大学刘鼎杯大学生创新创业大赛金奖证书" />](assets/awards/award-05.jpg) |
+| 第十四届“北斗杯”陕西赛区（含山西）北斗时空智能终端作品本科组二等奖；《基于北斗短报文通信的无接触式测量人体呼吸心跳装置》。 | 团队成员；相关项目另有[个人说明](projects/contactless-vitals.zh-CN.md) | [<img src="assets/awards/award-07.jpg" width="210" alt="2023 北斗杯陕西赛区含山西本科组二等奖证书" />](assets/awards/award-07.jpg) |
+| 华北五省大学生机器人大赛山西赛区水下机器人项目三等奖。 | 团队成员 | [<img src="assets/awards/award-08.jpg" width="210" alt="2023 华北五省大学生机器人大赛山西赛区三等奖证书" />](assets/awards/award-08.jpg) |
+| 全国大学生电子设计竞赛山西赛区本科组三等奖。 | 团队成员 | [<img src="assets/awards/award-09.jpg" width="210" alt="2023 全国大学生电子设计竞赛山西赛区本科组三等奖证书" />](assets/awards/award-09.jpg) |
+| 第十八届“挑战杯”全国大学生课外学术科技作品竞赛“黑科技”展示活动“行星”级作品（二等奖）；《基于生物电信号的体能监测评估系统》。 | 团队成员；按证书完整名称列出展示活动 | [<img src="assets/awards/award-11.jpg" width="210" alt="2023 挑战杯黑科技展示活动行星级作品二等奖证书" />](assets/awards/award-11.jpg) |
+| 第十一届全国大学生数字媒体科技作品及创意竞赛国赛三等奖；《基于生物电信号的体能监测评估装置系统》。 | 团队成员 | [<img src="assets/awards/award-12.jpg" width="210" alt="2023 全国大学生数字媒体科技作品及创意竞赛国赛三等奖证书" />](assets/awards/award-12.jpg) |
+| 中国大学生计算机设计大赛山西省级赛三等奖，物联网应用类别；《无接触式测量呼吸心跳装置》。 | 证书列名；相关项目另有[个人说明](projects/contactless-vitals.zh-CN.md) | [<img src="assets/awards/award-14.jpg" width="210" alt="2023 中国大学生计算机设计大赛山西省级赛三等奖证书" />](assets/awards/award-14.jpg) |
+
+### 2022
+
+| 奖项与作品 | 本人身份 | 证书 |
+| --- | --- | --- |
+| 第四届国际青年人工智能大赛“智慧农业赛”项目三等奖。 | 团队成员 | [<img src="assets/awards/award-01.jpg" width="210" alt="2022 国际青年人工智能大赛智慧农业赛项目三等奖证书" />](assets/awards/award-01.jpg) |
+
+### 其他项目参与记录
+
+- 2023 MCM/ICM：证书为 *Successful Participant*，属于参赛证明，未计入上述 19 项获奖。
+- 国家级大学生创新创业训练计划：《基于多传感器融合的室内声源定位算法及其装置》于 2024 年结项合格。结项证明将辛瑞莉列为参与项目人；两份同内容证明只记一项，未计入获奖。
+
+证书图片由个人保存的原始证明生成，仅用于展示证书载明的事实。奖项对应的项目多为多人合作；这些记录不表示项目由我独立完成。
 
 ## 知识产权
 
-- **授权发明专利：** 《风力发电机叶片的超声波除冰方法、控制器、系统及介质》（ZL 2023 1 1153478.3）。我是列名共同发明人，专利权人为中北大学。[查看证书](assets/ip/ip-01.jpg)。
-- **软件著作权登记：** 7 项，涉及毫米波雷达体征监测、生物电信号采集与评估、机械臂操作管理、MicroPython 软件包仓库等方向。各项登记权利人不同。[查看逐项清单和证书](intellectual-property/README.md#软件著作权登记)。
-- **作品著作权登记：** 6 项，包括教程、技术文章和图标作品。[查看逐项清单和证书](intellectual-property/README.md#作品著作权登记)。
+以下按现有登记证书完整列出我的共同发明人、共同作者或列名著作权人记录。每项以证书载明的名称、登记号和权利主体为准。登记证明署名与权利信息，不表示个人独立完成全部设计、软件已经开源或作品已经出版。
+
+### 授权发明专利
+
+| 专利 | 署名与权利主体 | 证书 |
+| --- | --- | --- |
+| 风力发电机叶片的超声波除冰方法、控制器、系统及介质；专利号 ZL 2023 1 1153478.3；2023-11-28 授权。 | 辛瑞莉为列名共同发明人；专利权人为中北大学。 | [<img src="assets/ip/ip-01.jpg" width="250" alt="风力发电机叶片超声波除冰发明专利证书" />](assets/ip/ip-01.jpg) |
+
+### 软件著作权登记
+
+以下 7 项证书均列有辛瑞莉。多数还列有其他自然人；最后一项同时列有公司及其他自然人。证书展示按登记事实记录，不代表相关软件的源代码可公开使用。
+
+| 登记软件 | 登记号 | 证书 |
+| --- | --- | --- |
+| 基于毫米波雷达技术的人体体征监测软件 | 2024SR1642606 | [<img src="assets/ip/ip-08.jpg" width="190" alt="毫米波雷达人体体征监测软件著作权登记证书" />](assets/ip/ip-08.jpg) |
+| 多模态心电步态信号采集系统 | 2024SR2073845 | [<img src="assets/ip/ip-09.jpg" width="190" alt="多模态心电步态信号采集系统软件著作权登记证书" />](assets/ip/ip-09.jpg) |
+| 精准分拣机械臂操作管理软件 | 2025SR0105971 | [<img src="assets/ip/ip-10.jpg" width="190" alt="精准分拣机械臂操作管理软件著作权登记证书" />](assets/ip/ip-10.jpg) |
+| 肌电信号监测评估软件 | 2024SR2004857 | [<img src="assets/ip/ip-11.jpg" width="190" alt="肌电信号监测评估软件著作权登记证书" />](assets/ip/ip-11.jpg) |
+| 表面肌电信号采集软件 | 2024SR1215382 | [<img src="assets/ip/ip-12.jpg" width="190" alt="表面肌电信号采集软件著作权登记证书" />](assets/ip/ip-12.jpg) |
+| 人体肌电信号健康评估软件 | 2025SR0229226 | [<img src="assets/ip/ip-13.jpg" width="190" alt="人体肌电信号健康评估软件著作权登记证书" />](assets/ip/ip-13.jpg) |
+| uPyPi MicroPython MIP 软件包仓库管理平台 | 2026SR0603186；登记著作权人为太原青禾之道科技有限公司、李子圣、辛瑞莉。 | [<img src="assets/ip/ip-14.jpg" width="190" alt="uPyPi MicroPython MIP 软件包仓库管理平台著作权登记证书" />](assets/ip/ip-14.jpg) |
+
+### 作品著作权登记
+
+这 6 项涵盖教学内容、技术文章与视觉作品。证书列有辛瑞莉为作者或权利人；部分为多人或公司共同署名。登记事实与公开出版、课程交付分别看待。
+
+| 登记作品 | 类型与署名说明 | 证书 |
+| --- | --- | --- |
+| 大学生创新创业教程 | 教程文字作品；共同署名 | [<img src="assets/ip/ip-02.jpg" width="190" alt="大学生创新创业教程作品登记证书" />](assets/ip/ip-02.jpg) |
+| 大学生电子计算机类比赛教程 | 教程文字作品；共同署名 | [<img src="assets/ip/ip-03.jpg" width="190" alt="大学生电子计算机类比赛教程作品登记证书" />](assets/ip/ip-03.jpg) |
+| 一文速通 Python 并行计算 | 技术文章；共同署名 | [<img src="assets/ip/ip-04.jpg" width="190" alt="一文速通 Python 并行计算作品登记证书" />](assets/ip/ip-04.jpg) |
+| 一文速通 Python 面向对象编程 | 技术文章；共同署名 | [<img src="assets/ip/ip-05.jpg" width="190" alt="一文速通 Python 面向对象编程作品登记证书" />](assets/ip/ip-05.jpg) |
+| Freak 嵌入式工作室 LOGO | 美术作品；李子圣、辛瑞莉共同署名 | [<img src="assets/ip/ip-06.jpg" width="190" alt="Freak 嵌入式工作室 LOGO 作品登记证书" />](assets/ip/ip-06.jpg) |
+| 灵韵启航者模块图标 | 美术作品；辛瑞莉与其他自然人及公司共同署名 | [<img src="assets/ip/ip-07.jpg" width="190" alt="灵韵启航者模块图标作品登记证书" />](assets/ip/ip-07.jpg) |
+
+以上仅是个人公开履历中的署名记录。证书图片保留了登记机构和共同署名信息；如需使用或许可相关作品，应分别确认实际权利主体与许可条件。
 
 ## 经历与工作方式
 
@@ -94,11 +164,11 @@
 | 项目协调 | 使用场景梳理、分工与节点跟进、演示和反馈记录 | [无接触式监测学生项目](projects/contactless-vitals.zh-CN.md) |
 | 电子与嵌入式 | ESP32、MQTT、传感数据链路、PCB 制作及装配 | [项目流程](projects/contactless-vitals.zh-CN.md)、[Fab 周作业](https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/) |
 | 数字制造 | 3D 建模、3D 打印、结构装配与迭代 | [Fab 最终项目](https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/final-project.html) |
-| 文档与教学 | 技术说明、实操练习、教程与演示材料 | [作品登记清单](intellectual-property/README.md#作品著作权登记) |
+| 文档与教学 | 技术说明、实操练习、教程与演示材料 | [本页作品登记](#作品著作权登记) |
 
 ## 合作成果与交流
 
-生猪异常监测、生物电外骨骼/机械臂等项目由多人合作完成，也见于其他团队成员的公开介绍。它们对应的本人署名获奖和登记记录已收入本页的[证书目录](achievements/README.md)与[知识产权目录](intellectual-property/README.md)；项目的团队性质在条目中注明。
+生猪异常监测、生物电外骨骼/机械臂等项目由多人合作完成，也见于其他团队成员的公开介绍。它们对应的本人署名获奖和登记记录已在本页的[竞赛与证书](#竞赛与证书)和[知识产权](#知识产权)章节展开；项目的团队性质在条目中注明。
 
 了解合作方向可访问 [Anvol](https://anvol.dev)。也欢迎从 [Fab Academy 个人站点](https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/)查看我的制作过程。
 
