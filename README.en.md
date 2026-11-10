@@ -45,17 +45,11 @@ I contribute to course outlines, hands-on exercises, demonstrations, and project
 
 ### 2025
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><a href="assets/awards/award-24.jpg"><img src="assets/awards/award-24.jpg" width="225" alt="2025 全国大学生生物医学工程创新设计竞赛二等奖证书" /></a><br><sub><strong>第十届全国大学生生物医学工程创新设计竞赛二等奖</strong><br>《基于生物电信号的外骨骼康复机械臂》<br>Team member</sub></td>
-    <td width="33%"></td>
-    <td width="33%"></td>
-  </tr>
-</table>
+<table><tr><td width="270" valign="top"><a href="assets/awards/award-24.jpg"><img src="assets/awards/award-24.jpg" width="225" alt="2025 全国大学生生物医学工程创新设计竞赛二等奖证书" /></a><br><sub><strong>第十届全国大学生生物医学工程创新设计竞赛二等奖</strong><br>《基于生物电信号的外骨骼康复机械臂》<br>Team member</sub></td></tr></table>
 
 ### 2024
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top"><a href="assets/awards/award-21.jpg"><img src="assets/awards/award-21.jpg" width="225" alt="2024 挑战杯创业计划竞赛全国总决赛铜奖证书" /></a><br><sub><strong>第十四届“挑战杯”秦创原中国大学生创业计划竞赛全国总决赛铜奖</strong><br>“晋猪守护者”<br>Team member</sub></td>
     <td width="33%" valign="top"><a href="assets/awards/award-22.jpg"><img src="assets/awards/award-22.jpg" width="225" alt="2024 挑战杯山西省大学生创业计划竞赛金奖证书" /></a><br><sub><strong>第十四届“挑战杯”山西省大学生创业计划竞赛金奖</strong><br>“晋猪守护者”<br>Team member</sub></td>
@@ -75,7 +69,7 @@ I contribute to course outlines, hands-on exercises, demonstrations, and project
 
 ### 2023
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top"><a href="assets/awards/award-02.jpg"><img src="assets/awards/award-02.jpg" width="225" alt="2023 iCAN 边缘 AI 挑战赛全国总决赛三等奖证书" /></a><br><sub><strong>iCAN 大学生创新创业大赛“边缘 AI+行业”挑战赛全国总决赛三等奖</strong><br>“晋猪守护者”<br>Team member</sub></td>
     <td width="33%" valign="top"><a href="assets/awards/award-03.jpg"><img src="assets/awards/award-03.jpg" width="225" alt="2023 中国机器人及人工智能大赛全国总决赛机器人创新赛优秀奖证书" /></a><br><sub><strong>第二十五届中国机器人及人工智能大赛全国总决赛机器人创新赛优秀奖</strong><br>Team member</sub></td>
@@ -100,13 +94,7 @@ I contribute to course outlines, hands-on exercises, demonstrations, and project
 
 ### 2022
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><a href="assets/awards/award-01.jpg"><img src="assets/awards/award-01.jpg" width="225" alt="2022 国际青年人工智能大赛智慧农业赛项目三等奖证书" /></a><br><sub><strong>第四届国际青年人工智能大赛“智慧农业赛”项目三等奖</strong><br>Team member</sub></td>
-    <td width="33%"></td>
-    <td width="33%"></td>
-  </tr>
-</table>
+<table><tr><td width="270" valign="top"><a href="assets/awards/award-01.jpg"><img src="assets/awards/award-01.jpg" width="225" alt="2022 国际青年人工智能大赛智慧农业赛项目三等奖证书" /></a><br><sub><strong>第四届国际青年人工智能大赛“智慧农业赛”项目三等奖</strong><br>Team member</sub></td></tr></table>
 
 <sub>Not counted as awards: a 2023 MCM/ICM Successful Participant certificate and the completed national student innovation project in indoor sound-source localization. Certificates document named participation, not sole authorship.</sub>
 
@@ -116,17 +104,11 @@ I contribute to course outlines, hands-on exercises, demonstrations, and project
 
 ### Granted invention patent
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><a href="assets/ip/ip-01.jpg"><img src="assets/ip/ip-01.jpg" width="225" alt="风力发电机叶片超声波除冰发明专利证书" /></a><br><sub><strong>风力发电机叶片的超声波除冰方法、控制器、系统及介质</strong><br>专利号 ZL 2023 1 1153478.3；2023-11-28 授权<br>Named co-inventor · owner: North University of China</sub></td>
-    <td width="33%"></td>
-    <td width="33%"></td>
-  </tr>
-</table>
+<table><tr><td width="270" valign="top"><a href="assets/ip/ip-01.jpg"><img src="assets/ip/ip-01.jpg" width="225" alt="风力发电机叶片超声波除冰发明专利证书" /></a><br><sub><strong>风力发电机叶片的超声波除冰方法、控制器、系统及介质</strong><br>专利号 ZL 2023 1 1153478.3；2023-11-28 授权<br>Named co-inventor · owner: North University of China</sub></td></tr></table>
 
 ### Software copyright registrations
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top"><a href="assets/ip/ip-08.jpg"><img src="assets/ip/ip-08.jpg" width="225" alt="毫米波雷达人体体征监测软件著作权登记证书" /></a><br><sub><strong>基于毫米波雷达技术的人体体征监测软件</strong><br>2024SR1642606 · Named on certificate</sub></td>
     <td width="33%" valign="top"><a href="assets/ip/ip-09.jpg"><img src="assets/ip/ip-09.jpg" width="225" alt="多模态心电步态信号采集系统软件著作权登记证书" /></a><br><sub><strong>多模态心电步态信号采集系统</strong><br>2024SR2073845 · Named on certificate</sub></td>
@@ -148,7 +130,7 @@ I contribute to course outlines, hands-on exercises, demonstrations, and project
 
 ### Work copyright registrations
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top"><a href="assets/ip/ip-02.jpg"><img src="assets/ip/ip-02.jpg" width="225" alt="大学生创新创业教程作品登记证书" /></a><br><sub><strong>大学生创新创业教程</strong><br>Jointly named tutorial or article</sub></td>
     <td width="33%" valign="top"><a href="assets/ip/ip-03.jpg"><img src="assets/ip/ip-03.jpg" width="225" alt="大学生电子计算机类比赛教程作品登记证书" /></a><br><sub><strong>大学生电子计算机类比赛教程</strong><br>Jointly named tutorial or article</sub></td>
