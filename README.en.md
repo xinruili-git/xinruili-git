@@ -41,92 +41,127 @@ I contribute to course outlines, hands-on exercises, demonstrations, and project
 
 ## Awards and certificates
 
-All **19 distinct award records** in my available certificates are shown below, with images. The project and competition titles remain in their original Chinese wording. Team results are identified as such; levels follow the wording on each certificate.
+<sub>All 19 distinct award records are shown here. Official competition titles are retained in Chinese; team awards are identified as team results.</sub>
 
 ### 2025
 
-| Award and project (official title) | My role | Certificate |
-| --- | --- | --- |
-| 第十届全国大学生生物医学工程创新设计竞赛二等奖；《基于生物电信号的外骨骼康复机械臂》。 | Team member | [<img src="assets/awards/award-24.jpg" width="210" alt="2025 全国大学生生物医学工程创新设计竞赛二等奖证书" />](assets/awards/award-24.jpg) |
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/awards/award-24.jpg"><img src="assets/awards/award-24.jpg" width="225" alt="2025 全国大学生生物医学工程创新设计竞赛二等奖证书" /></a><br><sub><strong>第十届全国大学生生物医学工程创新设计竞赛二等奖</strong><br>《基于生物电信号的外骨骼康复机械臂》<br>Team member</sub></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
 ### 2024
 
-| Award and project (official title) | My role | Certificate |
-| --- | --- | --- |
-| 第十四届“挑战杯”秦创原中国大学生创业计划竞赛全国总决赛铜奖；“晋猪守护者”。 | Team member | [<img src="assets/awards/award-21.jpg" width="210" alt="2024 挑战杯创业计划竞赛全国总决赛铜奖证书" />](assets/awards/award-21.jpg) |
-| 第十四届“挑战杯”山西省大学生创业计划竞赛金奖；“晋猪守护者”。 | Team member | [<img src="assets/awards/award-22.jpg" width="210" alt="2024 挑战杯山西省大学生创业计划竞赛金奖证书" />](assets/awards/award-22.jpg) |
-| 第六届全球校园人工智能算法精英大赛全国总决赛二等奖；“守护小猪”团队。 | Team member | [<img src="assets/awards/award-16.jpg" width="210" alt="2024 全球校园人工智能算法精英大赛全国总决赛二等奖证书" />](assets/awards/award-16.jpg) |
-| 同赛事省赛优秀奖。 | Team member | [<img src="assets/awards/award-17.jpg" width="210" alt="2024 全球校园人工智能算法精英大赛省赛优秀奖证书" />](assets/awards/award-17.jpg) |
-| 中国国际大学生创新大赛（2024）山西赛区银奖；《再生肌能——基于人体电信号的外骨骼康复机器人》。 | Team member | [<img src="assets/awards/award-15.jpg" width="210" alt="2024 中国国际大学生创新大赛山西赛区银奖证书" />](assets/awards/award-15.jpg) |
-| 第九届“天鹅杯”国际大学生智能农业装备创新大赛优秀奖；《养殖场生猪健康管理方案》。 | Team member | [<img src="assets/awards/award-20.jpg" width="210" alt="2024 天鹅杯国际大学生智能农业装备创新大赛优秀奖证书" />](assets/awards/award-20.jpg) |
-| 全国大学生电子设计竞赛（山西赛区）暨模拟电子系统设计专题赛选拔赛本科组二等奖。 | Team member | [<img src="assets/awards/award-23.jpg" width="210" alt="2024 山西赛区电子设计与模拟电子系统设计专题赛选拔赛本科组二等奖证书" />](assets/awards/award-23.jpg) |
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/awards/award-21.jpg"><img src="assets/awards/award-21.jpg" width="225" alt="2024 挑战杯创业计划竞赛全国总决赛铜奖证书" /></a><br><sub><strong>第十四届“挑战杯”秦创原中国大学生创业计划竞赛全国总决赛铜奖</strong><br>“晋猪守护者”<br>Team member</sub></td>
+    <td width="33%" valign="top"><a href="assets/awards/award-22.jpg"><img src="assets/awards/award-22.jpg" width="225" alt="2024 挑战杯山西省大学生创业计划竞赛金奖证书" /></a><br><sub><strong>第十四届“挑战杯”山西省大学生创业计划竞赛金奖</strong><br>“晋猪守护者”<br>Team member</sub></td>
+    <td width="33%" valign="top"><a href="assets/awards/award-16.jpg"><img src="assets/awards/award-16.jpg" width="225" alt="2024 全球校园人工智能算法精英大赛全国总决赛二等奖证书" /></a><br><sub><strong>第六届全球校园人工智能算法精英大赛全国总决赛二等奖</strong><br>“守护小猪”团队<br>Team member</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/awards/award-17.jpg"><img src="assets/awards/award-17.jpg" width="225" alt="2024 全球校园人工智能算法精英大赛省赛优秀奖证书" /></a><br><sub><strong>第六届全球校园人工智能算法精英大赛省赛优秀奖</strong><br>Team member</sub></td>
+    <td width="33%" valign="top"><a href="assets/awards/award-15.jpg"><img src="assets/awards/award-15.jpg" width="225" alt="2024 中国国际大学生创新大赛山西赛区银奖证书" /></a><br><sub><strong>中国国际大学生创新大赛（2024）山西赛区银奖</strong><br>《再生肌能——基于人体电信号的外骨骼康复机器人》<br>Team member</sub></td>
+    <td width="33%" valign="top"><a href="assets/awards/award-20.jpg"><img src="assets/awards/award-20.jpg" width="225" alt="2024 天鹅杯国际大学生智能农业装备创新大赛优秀奖证书" /></a><br><sub><strong>第九届“天鹅杯”国际大学生智能农业装备创新大赛优秀奖</strong><br>《养殖场生猪健康管理方案》<br>Team member</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/awards/award-23.jpg"><img src="assets/awards/award-23.jpg" width="225" alt="2024 山西赛区电子设计与模拟电子系统设计专题赛选拔赛本科组二等奖证书" /></a><br><sub><strong>全国大学生电子设计竞赛（山西赛区）暨模拟电子系统设计专题赛选拔赛本科组二等奖</strong><br>Team member</sub></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
 ### 2023
 
-| Award and project (official title) | My role | Certificate |
-| --- | --- | --- |
-| iCAN 大学生创新创业大赛“边缘 AI+行业”挑战赛全国总决赛三等奖；“晋猪守护者”。 | Team member | [<img src="assets/awards/award-02.jpg" width="210" alt="2023 iCAN 边缘 AI 挑战赛全国总决赛三等奖证书" />](assets/awards/award-02.jpg) |
-| 第二十五届中国机器人及人工智能大赛全国总决赛机器人创新赛优秀奖。 | Team member | [<img src="assets/awards/award-03.jpg" width="210" alt="2023 中国机器人及人工智能大赛全国总决赛机器人创新赛优秀奖证书" />](assets/awards/award-03.jpg) |
-| 同赛事山西赛区机器人创新赛二等奖。 | Team member | [<img src="assets/awards/award-04.jpg" width="210" alt="2023 中国机器人及人工智能大赛山西赛区二等奖证书" />](assets/awards/award-04.jpg) |
-| 中北大学“刘鼎杯”大学生创新创业大赛金奖。 | Team member | [<img src="assets/awards/award-05.jpg" width="210" alt="2023 中北大学刘鼎杯大学生创新创业大赛金奖证书" />](assets/awards/award-05.jpg) |
-| 第十四届“北斗杯”陕西赛区（含山西）北斗时空智能终端作品本科组二等奖；《基于北斗短报文通信的无接触式测量人体呼吸心跳装置》。 | Team member; see [my project notes](projects/contactless-vitals.md) | [<img src="assets/awards/award-07.jpg" width="210" alt="2023 北斗杯陕西赛区含山西本科组二等奖证书" />](assets/awards/award-07.jpg) |
-| 华北五省大学生机器人大赛山西赛区水下机器人项目三等奖。 | Team member | [<img src="assets/awards/award-08.jpg" width="210" alt="2023 华北五省大学生机器人大赛山西赛区三等奖证书" />](assets/awards/award-08.jpg) |
-| 全国大学生电子设计竞赛山西赛区本科组三等奖。 | Team member | [<img src="assets/awards/award-09.jpg" width="210" alt="2023 全国大学生电子设计竞赛山西赛区本科组三等奖证书" />](assets/awards/award-09.jpg) |
-| 第十八届“挑战杯”全国大学生课外学术科技作品竞赛“黑科技”展示活动“行星”级作品（二等奖）；《基于生物电信号的体能监测评估系统》。 | Team member; certificate describes a showcase event | [<img src="assets/awards/award-11.jpg" width="210" alt="2023 挑战杯黑科技展示活动行星级作品二等奖证书" />](assets/awards/award-11.jpg) |
-| 第十一届全国大学生数字媒体科技作品及创意竞赛国赛三等奖；《基于生物电信号的体能监测评估装置系统》。 | Team member | [<img src="assets/awards/award-12.jpg" width="210" alt="2023 全国大学生数字媒体科技作品及创意竞赛国赛三等奖证书" />](assets/awards/award-12.jpg) |
-| 中国大学生计算机设计大赛山西省级赛三等奖，物联网应用类别；《无接触式测量呼吸心跳装置》。 | Named on certificate; see [my project notes](projects/contactless-vitals.md) | [<img src="assets/awards/award-14.jpg" width="210" alt="2023 中国大学生计算机设计大赛山西省级赛三等奖证书" />](assets/awards/award-14.jpg) |
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/awards/award-02.jpg"><img src="assets/awards/award-02.jpg" width="225" alt="2023 iCAN 边缘 AI 挑战赛全国总决赛三等奖证书" /></a><br><sub><strong>iCAN 大学生创新创业大赛“边缘 AI+行业”挑战赛全国总决赛三等奖</strong><br>“晋猪守护者”<br>Team member</sub></td>
+    <td width="33%" valign="top"><a href="assets/awards/award-03.jpg"><img src="assets/awards/award-03.jpg" width="225" alt="2023 中国机器人及人工智能大赛全国总决赛机器人创新赛优秀奖证书" /></a><br><sub><strong>第二十五届中国机器人及人工智能大赛全国总决赛机器人创新赛优秀奖</strong><br>Team member</sub></td>
+    <td width="33%" valign="top"><a href="assets/awards/award-04.jpg"><img src="assets/awards/award-04.jpg" width="225" alt="2023 中国机器人及人工智能大赛山西赛区二等奖证书" /></a><br><sub><strong>第二十五届中国机器人及人工智能大赛山西赛区机器人创新赛二等奖</strong><br>Team member</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/awards/award-05.jpg"><img src="assets/awards/award-05.jpg" width="225" alt="2023 中北大学刘鼎杯大学生创新创业大赛金奖证书" /></a><br><sub><strong>中北大学“刘鼎杯”大学生创新创业大赛金奖</strong><br>Team member</sub></td>
+    <td width="33%" valign="top"><a href="assets/awards/award-07.jpg"><img src="assets/awards/award-07.jpg" width="225" alt="2023 北斗杯陕西赛区含山西本科组二等奖证书" /></a><br><sub><strong>第十四届“北斗杯”陕西赛区（含山西）北斗时空智能终端作品本科组二等奖</strong><br>《基于北斗短报文通信的无接触式测量人体呼吸心跳装置》<br>Team member</sub></td>
+    <td width="33%" valign="top"><a href="assets/awards/award-08.jpg"><img src="assets/awards/award-08.jpg" width="225" alt="2023 华北五省大学生机器人大赛山西赛区三等奖证书" /></a><br><sub><strong>华北五省大学生机器人大赛山西赛区水下机器人项目三等奖</strong><br>Team member</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/awards/award-09.jpg"><img src="assets/awards/award-09.jpg" width="225" alt="2023 全国大学生电子设计竞赛山西赛区本科组三等奖证书" /></a><br><sub><strong>全国大学生电子设计竞赛山西赛区本科组三等奖</strong><br>Team member</sub></td>
+    <td width="33%" valign="top"><a href="assets/awards/award-11.jpg"><img src="assets/awards/award-11.jpg" width="225" alt="2023 挑战杯黑科技展示活动行星级作品二等奖证书" /></a><br><sub><strong>第十八届“挑战杯”全国大学生课外学术科技作品竞赛“黑科技”展示活动“行星”级作品（二等奖）</strong><br>《基于生物电信号的体能监测评估系统》<br>Team member · showcase event as stated on certificate</sub></td>
+    <td width="33%" valign="top"><a href="assets/awards/award-12.jpg"><img src="assets/awards/award-12.jpg" width="225" alt="2023 全国大学生数字媒体科技作品及创意竞赛国赛三等奖证书" /></a><br><sub><strong>第十一届全国大学生数字媒体科技作品及创意竞赛国赛三等奖</strong><br>《基于生物电信号的体能监测评估装置系统》<br>Team member</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/awards/award-14.jpg"><img src="assets/awards/award-14.jpg" width="225" alt="2023 中国大学生计算机设计大赛山西省级赛三等奖证书" /></a><br><sub><strong>中国大学生计算机设计大赛山西省级赛三等奖，物联网应用类别</strong><br>《无接触式测量呼吸心跳装置》<br>Named on certificate</sub></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
 ### 2022
 
-| Award and project (official title) | My role | Certificate |
-| --- | --- | --- |
-| 第四届国际青年人工智能大赛“智慧农业赛”项目三等奖。 | Team member | [<img src="assets/awards/award-01.jpg" width="210" alt="2022 国际青年人工智能大赛智慧农业赛项目三等奖证书" />](assets/awards/award-01.jpg) |
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/awards/award-01.jpg"><img src="assets/awards/award-01.jpg" width="225" alt="2022 国际青年人工智能大赛智慧农业赛项目三等奖证书" /></a><br><sub><strong>第四届国际青年人工智能大赛“智慧农业赛”项目三等奖</strong><br>Team member</sub></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
-### Other participation records
-
-- 2023 MCM/ICM: the certificate says *Successful Participant*. It is participation evidence and is excluded from the 19 awards above.
-- National Undergraduate Innovation and Entrepreneurship Training Program: the indoor sound-source localization project was completed in 2024. The completion document names me as a participant; duplicate documents are counted once, and this is excluded from the award total.
-
-The images are derived from certificates in my records. Most projects were collaborative; the awards do not imply that I completed them alone.
+<sub>Not counted as awards: a 2023 MCM/ICM Successful Participant certificate and the completed national student innovation project in indoor sound-source localization. Certificates document named participation, not sole authorship.</sub>
 
 ## Intellectual property
 
-All **14 named registrations** in my available certificates are shown below. Official titles remain in Chinese. Joint authorship, named inventorship, and rights ownership are distinguished in the entries.
+<sub>Certificates show named inventorship, authorship or registration. Official work titles remain in Chinese. Registration does not establish sole authorship, publication or open-source availability.</sub>
 
 ### Granted invention patent
 
-| Patent (official title) | Attribution and owner | Certificate |
-| --- | --- | --- |
-| 风力发电机叶片的超声波除冰方法、控制器、系统及介质；专利号 ZL 2023 1 1153478.3；2023-11-28 授权。 | I am a named co-inventor; North University of China is the patent owner. | [<img src="assets/ip/ip-01.jpg" width="250" alt="风力发电机叶片超声波除冰发明专利证书" />](assets/ip/ip-01.jpg) |
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/ip/ip-01.jpg"><img src="assets/ip/ip-01.jpg" width="225" alt="风力发电机叶片超声波除冰发明专利证书" /></a><br><sub><strong>风力发电机叶片的超声波除冰方法、控制器、系统及介质</strong><br>专利号 ZL 2023 1 1153478.3；2023-11-28 授权<br>Named co-inventor · owner: North University of China</sub></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
 ### Software copyright registrations
 
-All seven certificates name me. Most also name other individuals; the final entry additionally names a company. A registration does not make the software source code publicly available.
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/ip/ip-08.jpg"><img src="assets/ip/ip-08.jpg" width="225" alt="毫米波雷达人体体征监测软件著作权登记证书" /></a><br><sub><strong>基于毫米波雷达技术的人体体征监测软件</strong><br>2024SR1642606 · Named on certificate</sub></td>
+    <td width="33%" valign="top"><a href="assets/ip/ip-09.jpg"><img src="assets/ip/ip-09.jpg" width="225" alt="多模态心电步态信号采集系统软件著作权登记证书" /></a><br><sub><strong>多模态心电步态信号采集系统</strong><br>2024SR2073845 · Named on certificate</sub></td>
+    <td width="33%" valign="top"><a href="assets/ip/ip-10.jpg"><img src="assets/ip/ip-10.jpg" width="225" alt="精准分拣机械臂操作管理软件著作权登记证书" /></a><br><sub><strong>精准分拣机械臂操作管理软件</strong><br>2025SR0105971 · Named on certificate</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/ip/ip-11.jpg"><img src="assets/ip/ip-11.jpg" width="225" alt="肌电信号监测评估软件著作权登记证书" /></a><br><sub><strong>肌电信号监测评估软件</strong><br>2024SR2004857 · Named on certificate</sub></td>
+    <td width="33%" valign="top"><a href="assets/ip/ip-12.jpg"><img src="assets/ip/ip-12.jpg" width="225" alt="表面肌电信号采集软件著作权登记证书" /></a><br><sub><strong>表面肌电信号采集软件</strong><br>2024SR1215382 · Named on certificate</sub></td>
+    <td width="33%" valign="top"><a href="assets/ip/ip-13.jpg"><img src="assets/ip/ip-13.jpg" width="225" alt="人体肌电信号健康评估软件著作权登记证书" /></a><br><sub><strong>人体肌电信号健康评估软件</strong><br>2025SR0229226 · Named on certificate</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/ip/ip-14.jpg"><img src="assets/ip/ip-14.jpg" width="225" alt="uPyPi MicroPython MIP 软件包仓库管理平台著作权登记证书" /></a><br><sub><strong>uPyPi MicroPython MIP 软件包仓库管理平台</strong><br>2026SR0603186 · Named on certificate</sub></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
-| Registered software (official title) | Registration number | Certificate |
-| --- | --- | --- |
-| 基于毫米波雷达技术的人体体征监测软件 | 2024SR1642606 | [<img src="assets/ip/ip-08.jpg" width="190" alt="毫米波雷达人体体征监测软件著作权登记证书" />](assets/ip/ip-08.jpg) |
-| 多模态心电步态信号采集系统 | 2024SR2073845 | [<img src="assets/ip/ip-09.jpg" width="190" alt="多模态心电步态信号采集系统软件著作权登记证书" />](assets/ip/ip-09.jpg) |
-| 精准分拣机械臂操作管理软件 | 2025SR0105971 | [<img src="assets/ip/ip-10.jpg" width="190" alt="精准分拣机械臂操作管理软件著作权登记证书" />](assets/ip/ip-10.jpg) |
-| 肌电信号监测评估软件 | 2024SR2004857 | [<img src="assets/ip/ip-11.jpg" width="190" alt="肌电信号监测评估软件著作权登记证书" />](assets/ip/ip-11.jpg) |
-| 表面肌电信号采集软件 | 2024SR1215382 | [<img src="assets/ip/ip-12.jpg" width="190" alt="表面肌电信号采集软件著作权登记证书" />](assets/ip/ip-12.jpg) |
-| 人体肌电信号健康评估软件 | 2025SR0229226 | [<img src="assets/ip/ip-13.jpg" width="190" alt="人体肌电信号健康评估软件著作权登记证书" />](assets/ip/ip-13.jpg) |
-| uPyPi MicroPython MIP 软件包仓库管理平台 | 2026SR0603186；Registered rights holders: Taiyuan Qinghezhidao Technology Co., Ltd., Li Zisheng, and Xin Ruili. | [<img src="assets/ip/ip-14.jpg" width="190" alt="uPyPi MicroPython MIP 软件包仓库管理平台著作权登记证书" />](assets/ip/ip-14.jpg) |
+<sub>The seven registrations include other individuals; the uPyPi registration also names Taiyuan Qinghezhidao Technology Co., Ltd. as a rights holder.</sub>
 
 ### Work copyright registrations
 
-These six registrations cover teaching materials, technical articles, and visual works. The certificates name me as an author or rights holder, sometimes with other people or a company. Registration does not establish publication or delivery of a course.
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/ip/ip-02.jpg"><img src="assets/ip/ip-02.jpg" width="225" alt="大学生创新创业教程作品登记证书" /></a><br><sub><strong>大学生创新创业教程</strong><br>Jointly named tutorial or article</sub></td>
+    <td width="33%" valign="top"><a href="assets/ip/ip-03.jpg"><img src="assets/ip/ip-03.jpg" width="225" alt="大学生电子计算机类比赛教程作品登记证书" /></a><br><sub><strong>大学生电子计算机类比赛教程</strong><br>Jointly named tutorial or article</sub></td>
+    <td width="33%" valign="top"><a href="assets/ip/ip-04.jpg"><img src="assets/ip/ip-04.jpg" width="225" alt="一文速通 Python 并行计算作品登记证书" /></a><br><sub><strong>一文速通 Python 并行计算</strong><br>Jointly named tutorial or article</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/ip/ip-05.jpg"><img src="assets/ip/ip-05.jpg" width="225" alt="一文速通 Python 面向对象编程作品登记证书" /></a><br><sub><strong>一文速通 Python 面向对象编程</strong><br>Jointly named tutorial or article</sub></td>
+    <td width="33%" valign="top"><a href="assets/ip/ip-06.jpg"><img src="assets/ip/ip-06.jpg" width="225" alt="Freak 嵌入式工作室 LOGO 作品登记证书" /></a><br><sub><strong>Freak 嵌入式工作室 LOGO</strong><br>Jointly named visual work</sub></td>
+    <td width="33%" valign="top"><a href="assets/ip/ip-07.jpg"><img src="assets/ip/ip-07.jpg" width="225" alt="灵韵启航者模块图标作品登记证书" /></a><br><sub><strong>灵韵启航者模块图标</strong><br>Jointly named visual work</sub></td>
+  </tr>
+</table>
 
-| Registered work (official title) | Type and attribution | Certificate |
-| --- | --- | --- |
-| 大学生创新创业教程 | Tutorial text; jointly named | [<img src="assets/ip/ip-02.jpg" width="190" alt="大学生创新创业教程作品登记证书" />](assets/ip/ip-02.jpg) |
-| 大学生电子计算机类比赛教程 | Tutorial text; jointly named | [<img src="assets/ip/ip-03.jpg" width="190" alt="大学生电子计算机类比赛教程作品登记证书" />](assets/ip/ip-03.jpg) |
-| 一文速通 Python 并行计算 | Technical article; jointly named | [<img src="assets/ip/ip-04.jpg" width="190" alt="一文速通 Python 并行计算作品登记证书" />](assets/ip/ip-04.jpg) |
-| 一文速通 Python 面向对象编程 | Technical article; jointly named | [<img src="assets/ip/ip-05.jpg" width="190" alt="一文速通 Python 面向对象编程作品登记证书" />](assets/ip/ip-05.jpg) |
-| Freak 嵌入式工作室 LOGO | Visual work; jointly named with Li Zisheng | [<img src="assets/ip/ip-06.jpg" width="190" alt="Freak 嵌入式工作室 LOGO 作品登记证书" />](assets/ip/ip-06.jpg) |
-| 灵韵启航者模块图标 | Visual work; jointly named with other individuals and a company | [<img src="assets/ip/ip-07.jpg" width="190" alt="灵韵启航者模块图标作品登记证书" />](assets/ip/ip-07.jpg) |
-
-These are named records in my public profile. The images show the registering authority and co-authors. Rights and licensing terms should be checked for each work separately.
+<sub>These are named records; rights and licensing terms depend on each certificate and rights holder.</sub>
 
 ## Experience and practice
 
