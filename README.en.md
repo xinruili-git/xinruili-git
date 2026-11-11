@@ -29,7 +29,16 @@ I coordinated the student project and worked on integration across sensing, comm
 
 At Chaihuo Makerspace, I documented electronics design, PCB fabrication, embedded programming, 3D printing, assembly, testing, and integration. The weekly assignments show intermediate builds and problems encountered. My final project brings several of those processes together in a desktop device.
 
-<a href="https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/final-project.html"><img src="assets/fab-electronics-board.jpeg" width="520" alt="Assembled electronics board from my Fab Academy project" /></a>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top"><a href="assets/fab/printing-shell.jpg"><img src="assets/fab/printing-shell.jpg" width="360" alt="3D printing the enclosure for the Fab Academy final project" /></a><br><sub><strong>3D printing</strong> · making the enclosure</sub></td>
+    <td width="50%" valign="top"><a href="assets/fab-electronics-board.jpeg"><img src="assets/fab-electronics-board.jpeg" width="360" alt="Assembled electronics board from the Fab Academy final project" /></a><br><sub><strong>Electronics</strong> · board and peripheral modules</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="assets/fab/finished-variants.jpg"><img src="assets/fab/finished-variants.jpg" width="360" alt="Several physical appearance variants of the Fab Academy final project" /></a><br><sub><strong>Physical build</strong> · interchangeable accessories</sub></td>
+    <td width="50%" valign="top"><a href="assets/fab/desktop-demo.jpg"><img src="assets/fab/desktop-demo.jpg" width="360" alt="The desktop device lighting up in front of a computer" /></a><br><sub><strong>Integration demo</strong> · computer and desktop device</sub></td>
+  </tr>
+</table>
 
 [Weekly documentation](https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/) · [Final project](https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/final-project.html)
 

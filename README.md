@@ -43,7 +43,16 @@
 
 我在柴火创客空间的 Fab Academy 课程中记录了从设计、加工到测试和修改的过程。周作业保留了中间结果、遇到的问题和解决步骤；最终项目把电子制作、结构设计与交互集成到一个桌面设备中。这里展示的是我的个人制作过程与学习记录。
 
-<a href="https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/final-project.html"><img src="assets/fab-electronics-board.jpeg" width="520" alt="Fab Academy 个人项目的电子板装配实物" /></a>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top"><a href="assets/fab/printing-shell.jpg"><img src="assets/fab/printing-shell.jpg" width="360" alt="Fab Academy 最终项目的外壳正在 3D 打印" /></a><br><sub><strong>3D 打印</strong> · 外壳制作</sub></td>
+    <td width="50%" valign="top"><a href="assets/fab-electronics-board.jpeg"><img src="assets/fab-electronics-board.jpeg" width="360" alt="Fab Academy 最终项目的电子板装配实物" /></a><br><sub><strong>电子装配</strong> · 主板与外设</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="assets/fab/finished-variants.jpg"><img src="assets/fab/finished-variants.jpg" width="360" alt="Fab Academy 最终项目的不同外观实物" /></a><br><sub><strong>实物外观</strong> · 不同配件组合</sub></td>
+    <td width="50%" valign="top"><a href="assets/fab/desktop-demo.jpg"><img src="assets/fab/desktop-demo.jpg" width="360" alt="桌面设备在电脑前亮灯演示" /></a><br><sub><strong>联调演示</strong> · 电脑与桌面设备</sub></td>
+  </tr>
+</table>
 
 [查看完整周作业](https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/) · [查看最终项目](https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/final-project.html)
 
