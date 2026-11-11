@@ -63,19 +63,19 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top"><a href="assets/events/2024-swan-cup.jpg"><img src="assets/events/2024-swan-cup.jpg" width="260" alt="辛瑞莉与团队在第九届天鹅杯智能农业装备创新大赛现场合影" /></a><br><sub><strong>2024 · 天鹅杯智能农业装备创新大赛</strong><br>学生团队现场合影；[团队获奖证书](assets/awards/award-20.jpg)。</sub></td>
-    <td width="33%" valign="top"><a href="assets/events/2024-innovation-competition.jpg"><img src="assets/events/2024-innovation-competition.jpg" width="260" alt="辛瑞莉在2024年中国国际大学生创新大赛山西赛区现场" /></a><br><sub><strong>2024 · 中国国际大学生创新大赛山西赛区</strong><br>团队参赛现场；[团队获奖证书](assets/awards/award-15.jpg)。</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2024-swan-cup.jpg"><img src="assets/events/2024-swan-cup.jpg" width="260" alt="辛瑞莉与团队在第九届天鹅杯智能农业装备创新大赛现场合影" /></a><br><sub><strong>2024 · 天鹅杯智能农业装备创新大赛</strong><br>学生团队现场合影；<a href="assets/awards/award-20.jpg">团队获奖证书</a>。</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2024-innovation-competition.jpg"><img src="assets/events/2024-innovation-competition.jpg" width="260" alt="辛瑞莉在2024年中国国际大学生创新大赛山西赛区现场" /></a><br><sub><strong>2024 · 中国国际大学生创新大赛山西赛区</strong><br>团队参赛现场；<a href="assets/awards/award-15.jpg">团队获奖证书</a>。</sub></td>
     <td width="33%" valign="top"><a href="assets/events/2025-chongzu-interview.jpg"><img src="assets/events/2025-chongzu-interview.jpg" width="260" alt="辛瑞莉接受崇左融媒体中心采访" /></a><br><sub><strong>2025 · 崇左融媒体中心采访</strong><br>介绍团队机器人项目与后续应用设想。</sub></td>
   </tr>
   <tr>
     <td width="33%" valign="top"><a href="assets/events/2026-teacher-training.jpg"><img src="assets/events/2026-teacher-training.jpg" width="260" alt="辛瑞莉在扶绥县人工智能教育骨干教师培训现场" /></a><br><sub><strong>2026 · 扶绥县教师培训</strong><br>参与电子教学套件的实操培训与交流。</sub></td>
-    <td width="33%" valign="top"><a href="assets/events/2026-shenzhen-hackathon.jpg"><img src="assets/events/2026-shenzhen-hackathon.jpg" width="260" alt="深圳硬件女性黑客松的现场制作与交流" /></a><br><sub><strong>2026 · 深圳硬件女性黑客松</strong><br>参与活动；图为现场硬件制作与交流。</sub></td>
-    <td width="33%" valign="top"><a href="assets/events/2026-open-source-academy.jpg"><img src="assets/events/2026-open-source-academy.jpg" width="260" alt="辛瑞莉在模数开源主理人学院活动中分享" /></a><br><sub><strong>2026 · 模数开源主理人学院</strong><br>入选首届学员、完成课程，并在活动中分享；[查看结业证书](assets/events/2026-open-source-academy-certificate.jpg)。</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2026-shenzhen-hackathon.jpg"><img src="assets/events/2026-shenzhen-hackathon.jpg" width="260" alt="深圳硬件女性黑客松的现场制作与交流" /></a><br><sub><strong>2026.04 · 深圳硬件女性黑客松</strong><br>参与活动；图为现场硬件制作与交流。</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2026-open-source-academy.jpg"><img src="assets/events/2026-open-source-academy.jpg" width="260" alt="辛瑞莉在模数开源主理人学院活动中分享" /></a><br><sub><strong>2026 · 模数开源主理人学院</strong><br>入选首届学员、完成课程，并在活动中分享；<a href="assets/events/2026-open-source-academy-certificate.jpg">查看结业证书</a>。</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="assets/events/2026-maker-assistant-exhibition.jpg"><img src="assets/events/2026-maker-assistant-exhibition.jpg" width="260" alt="团队作品码克助手在开源人工智能创新生态展厅展示" /></a><br><sub><strong>2026 · 码克助手展厅展示</strong><br>团队作品亮相开源人工智能创新生态展厅。</sub></td>
-    <td width="33%" valign="top"><a href="assets/events/2026-hicool-roadshow.jpg"><img src="assets/events/2026-hicool-roadshow.jpg" width="260" alt="辛瑞莉在HICOOL 2026全球创业者峰会介绍Blockless Make APP" /></a><br><sub><strong>2026 · HICOOL 全球创业者峰会</strong><br>参与 Blockless‑Make‑APP 项目路演与现场展示。</sub></td>
-    <td width="33%" valign="top"><a href="assets/events/2026-beijing-hackathon.jpg"><img src="assets/events/2026-beijing-hackathon.jpg" width="260" alt="北京裂变千人黑客松团队项目的展示素材" /></a><br><sub><strong>2026 · 北京裂变千人黑客松</strong><br>参与团队活动；图为参赛项目展示素材。</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2026-maker-assistant-exhibition.jpg"><img src="assets/events/2026-maker-assistant-exhibition.jpg" width="260" alt="团队作品码克助手在开源人工智能创新生态展厅展示" /></a><br><sub><strong>2026.07 · 码克助手展厅展示</strong><br>团队作品亮相开源人工智能创新生态展厅。</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2026-hicool-roadshow.jpg"><img src="assets/events/2026-hicool-roadshow.jpg" width="260" alt="辛瑞莉在HICOOL 2026全球创业者峰会介绍Blockless Make APP" /></a><br><sub><strong>2026.08 · HICOOL 全球创业者峰会</strong><br>参与 Blockless‑Make‑APP 项目路演与现场展示。</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2026-beijing-hackathon.jpg"><img src="assets/events/2026-beijing-hackathon.jpg" width="260" alt="北京裂变千人黑客松团队项目的展示素材" /></a><br><sub><strong>2026.08 · 北京裂变千人黑客松</strong><br>参与团队活动；图为参赛项目展示素材。</sub></td>
   </tr>
 </table>
 
