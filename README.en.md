@@ -6,7 +6,7 @@
 
 I help connect requirements, people, prototypes, and documentation in smart hardware and embedded projects. My work includes task coordination, prototype integration, technical writing, and hands-on digital fabrication. This profile presents selected work, personally documented making, and verifiable team achievements.
 
-**Explore:** [Selected work](#selected-work) · [Awards](#awards-and-certificates) · [Intellectual property](#intellectual-property) · [Experience](#experience-and-practice) · [Fab Academy record](https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/)
+**Explore:** [Selected work](#selected-work) · [Activities and fieldwork](#activities-and-fieldwork) · [Awards](#awards-and-certificates) · [Intellectual property](#intellectual-property) · [Experience](#experience-and-practice) · [Fab Academy record](https://fabacademy.org/2026/labs/chaihuo/students/xin-ruili/)
 
 | 19 competition award records | 1 granted invention patent | 7 software copyright registrations | 6 work registrations |
 | :---: | :---: | :---: | :---: |
@@ -38,6 +38,28 @@ At Chaihuo Makerspace, I documented electronics design, PCB fabrication, embedde
 I contribute to course outlines, hands-on exercises, demonstrations, and project documentation, and support technical learning activities. Four jointly registered tutorial or article works cover innovation projects, electronics and computing competitions, Python parallel computing, and Python object-oriented programming. [See the work registrations below](#work-copyright-registrations).
 
 <img src="assets/ruili-speaking.jpg" width="430" alt="Xin Ruili speaking at a technical exchange event in 2026" />
+
+## Activities and fieldwork
+
+These photos show student competitions, teacher training, hardware hackathons, and project demonstrations. Captions distinguish my participation from work produced by a team.
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top"><a href="assets/events/2024-swan-cup.jpg"><img src="assets/events/2024-swan-cup.jpg" width="260" alt="Xin Ruili and teammates at the 2024 Swan Cup competition" /></a><br><sub><strong>2024 · Swan Cup smart agriculture competition</strong><br>Student team at the event; [team award certificate](assets/awards/award-20.jpg).</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2024-innovation-competition.jpg"><img src="assets/events/2024-innovation-competition.jpg" width="260" alt="Xin Ruili at the 2024 China International College Students Innovation Competition Shanxi round" /></a><br><sub><strong>2024 · China International College Students Innovation Competition, Shanxi</strong><br>Team participation; [team award certificate](assets/awards/award-15.jpg).</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2025-chongzu-interview.jpg"><img src="assets/events/2025-chongzu-interview.jpg" width="260" alt="Xin Ruili being interviewed by Chongzuo Media Center" /></a><br><sub><strong>2025 · Chongzuo Media Center interview</strong><br>Discussing the team's robotics project and its possible applications.</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/events/2026-teacher-training.jpg"><img src="assets/events/2026-teacher-training.jpg" width="260" alt="Xin Ruili at an AI education teacher-training session in Fusui County" /></a><br><sub><strong>2026 · Fusui County teacher training</strong><br>Hands-on training and discussion using electronic teaching kits.</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2026-shenzhen-hackathon.jpg"><img src="assets/events/2026-shenzhen-hackathon.jpg" width="260" alt="Hardware making at the Shenzhen Women in Hardware Hackathon" /></a><br><sub><strong>2026 · Shenzhen Women in Hardware Hackathon</strong><br>I took part in the event; the photo shows on-site making and exchange.</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2026-open-source-academy.jpg"><img src="assets/events/2026-open-source-academy.jpg" width="260" alt="Xin Ruili speaking at an Open Source Academy event" /></a><br><sub><strong>2026 · Open Source Program Leaders Academy</strong><br>Selected for the first cohort, completed the course, and shared at an event; [completion certificate](assets/events/2026-open-source-academy-certificate.jpg).</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="assets/events/2026-maker-assistant-exhibition.jpg"><img src="assets/events/2026-maker-assistant-exhibition.jpg" width="260" alt="The team project Maker Assistant at the open-source AI innovation exhibition" /></a><br><sub><strong>2026 · Maker Assistant exhibition</strong><br>A team project displayed at an open-source AI innovation exhibition.</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2026-hicool-roadshow.jpg"><img src="assets/events/2026-hicool-roadshow.jpg" width="260" alt="Xin Ruili presenting Blockless Make APP at HICOOL 2026" /></a><br><sub><strong>2026 · HICOOL Global Entrepreneur Summit</strong><br>Participated in the Blockless‑Make‑APP project roadshow and on-site demonstration.</sub></td>
+    <td width="33%" valign="top"><a href="assets/events/2026-beijing-hackathon.jpg"><img src="assets/events/2026-beijing-hackathon.jpg" width="260" alt="Team project materials from the Beijing hackathon" /></a><br><sub><strong>2026 · Beijing hackathon</strong><br>I participated in the team event; the image shows project materials.</sub></td>
+  </tr>
+</table>
 
 ## Awards and certificates
 
